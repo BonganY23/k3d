@@ -1,5 +1,6 @@
 # Create installing directory
-mkdir deploy_kubernetes ; cd deploy_kubernetes
+mkdir deploy_kubernetes 
+cd deploy_kubernetes
 
 # Install docker
 # Add Docker's official GPG key:
